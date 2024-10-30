@@ -13,7 +13,7 @@ I invite you to explore the details of my project and see how I tackled this min
 
 ## 📊 Project Demo
 
-![endpoint testing afternoon demo](https://github.com/slangslang/Endpoint-Testing-Afternoon-Project-With-Postman/blob/main/Untitledvideo-ezgif.com-video-to-gif-converter.gif)   
+![endpoint testing afternoon demo](https://github.com/slangslang/Endpoint-Testing-Mini-Project-With-Postman/blob/main/endpointtestingminiproject-ezgif.com-video-to-gif-converter.gif)   
 *Preview of the finished project with all test passing in the collection*
 
 ---
@@ -89,5 +89,5 @@ Click the button below to access the finished in-depth project:
 - Developed a deeper understanding of API requests and responses.
 
 I'm excited to apply this knowledge to future API testing projects! 🎉
-
+##
 Feel free to reach out if you have any questions or need further clarification! 🤝
