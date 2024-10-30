@@ -2,7 +2,7 @@
 
 ## 🌟 Project Overview
 
-I'm excited to share my completed project on **Endpoint Testing Mini with Postman**! 🚀 In this project, I delved into the fundamentals of API testing using **Postman**, a powerful tool for making HTTP requests and validating API responses. I explored CRUD operations on a student database.
+I'm thrilled to present my finished project on **Endpoint Testing Mini with Postman**! 🚀 In this project, I explored the basics of API testing with **Postman**, a robust tool for sending HTTP requests and verifying API responses. I focused on performing CRUD operations on a student database.
 
 ### A Special Shoutout! 🎉
 A huge thank you to [DevMountain](https://github.com/DevMountain) for providing yet another fantastic free live endpoint testing project! Be sure to check out their repository: [Endpoint Testing Mini](https://github.com/DevMountain/endpoint-testing-mini).
