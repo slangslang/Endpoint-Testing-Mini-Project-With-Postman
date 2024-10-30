@@ -111,7 +111,7 @@ I invite you to explore the details of my project and see how I tackled this min
 ### 📡 Explore the API with Postman
 Click the button below to access the finished in-depth project:
 
-[![Postman Collection](https://img.shields.io/badge/Postman-Collection-orange?style=for-the-badge&logo=postman)](https://www.postman.com/rodman-1o4fwe9oqcsfx/workspace/endpoint-testing-afternoon/collection/34720226-c7d2a42f-49ef-49f6-a196-a59d8b3ab5a6?action=share&creator=34720226)
+[![Postman Collection](https://img.shields.io/badge/Postman-Collection-orange?style=for-the-badge&logo=postman)](https://www.postman.com/rodman-1o4fwe9oqcsfx/workspace/endpoint-testing-mini-project/collection/34720226-e4301234-2cf4-4d55-88d2-95184afb7709?action=share&creator=34720226)
 
 ---
 
